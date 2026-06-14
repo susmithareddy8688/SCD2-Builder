@@ -1,0 +1,5 @@
+﻿,Customer_ID,Name,City,Effective_From,Effective_To,Current
+0,101,Ravi,Hyderabad,2026-06-01,2026-06-13,N
+1,102,Priya,Chennai,2026-06-01,,Y
+2,101,Ravi,Banglore,2026-06-14,,Y
+3,103,Bannu,Delhi,2026-06-14,,Y
